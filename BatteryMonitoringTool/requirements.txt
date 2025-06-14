@@ -1,0 +1,7 @@
+psutil
+tkinter (built-in with Python >=3.5)
+
+Installation Commands:
+pip install psutil
+# Note: tkinter is included with Python installations on most systems, so it does not need to be installed separately.
+# If you are using a virtual environment, make sure to activate it before running the pip install command.
