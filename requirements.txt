@@ -1,6 +1,0 @@
-opencv-python
-pygame
-sounddevice
-pynput
-pybluez
-PyQt5
