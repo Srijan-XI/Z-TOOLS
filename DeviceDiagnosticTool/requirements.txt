@@ -1,0 +1,7 @@
+Requirements for Device Diagnostic Tool
+opencv-python
+pygame
+sounddevice
+pynput
+pybluez
+bleak
