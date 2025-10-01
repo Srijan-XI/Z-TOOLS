@@ -1,0 +1,6 @@
+Requirements for Linux:
+
+```
+sudo apt install lm-sensors
+pip install psutil
+```

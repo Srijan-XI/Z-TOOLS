@@ -1,0 +1,9 @@
+Requirements for Windows:
+
+Install OpenHardwareMonitor (https://openhardwaremonitor.org/downloads) and keep it running.
+
+Install Python WMI package:
+```
+pip install WMI
+
+```
